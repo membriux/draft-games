@@ -1,0 +1,6 @@
+framework module Pods_Draft_Games_Draft_GamesUITests {
+  umbrella header "Pods-Draft Games-Draft GamesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
