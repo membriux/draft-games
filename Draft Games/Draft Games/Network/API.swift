@@ -6,3 +6,20 @@
 //
 
 import Foundation
+import SwiftyJSON
+
+struct API {
+    
+    static func getPlayerData() {
+        
+    }
+    
+    static func getTopPlayers() {
+        return
+    }
+    
+    static func getTrendingPlayers() {
+        return
+    }
+    
+}
